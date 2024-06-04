@@ -1,26 +1,5 @@
 # Garbage Classification with Genetic Algorithm Feature Selection
 
-## Dataset
-
-The dataset should be organized in the following structure:
-```
-/path/to/dataset/
-    /train/
-        /cardboard/
-        /glass/
-        /metal/
-        /paper/
-        /plastic/
-        /trash/
-    /validation/
-        /cardboard/
-        /glass/
-        /metal/
-        /paper/
-        /plastic/
-        /trash/
-```
-
 ## Model Training
 
 The training process involves the following steps:
